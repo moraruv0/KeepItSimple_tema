@@ -1,0 +1,15 @@
+*{
+    font-family: sans-serif;
+    text-align: justify;
+}
+html{
+    height: 125vh;
+}
+div{
+    position: absolute;
+    left: 44em;
+    top: 3em;
+}
+img{
+    font-size: 50vh;
+}
